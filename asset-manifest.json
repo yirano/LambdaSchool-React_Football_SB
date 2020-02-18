@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.31c3ebaa.chunk.css",
-    "main.js": "/static/js/main.1a38b4c1.chunk.js",
-    "main.js.map": "/static/js/main.1a38b4c1.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.e5b73578.js",
-    "runtime~main.js.map": "/static/js/runtime~main.e5b73578.js.map",
-    "static/js/2.d612f04f.chunk.js": "/static/js/2.d612f04f.chunk.js",
-    "static/js/2.d612f04f.chunk.js.map": "/static/js/2.d612f04f.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.49265171f6eaddff854e432b49f361c3.js": "/precache-manifest.49265171f6eaddff854e432b49f361c3.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.31c3ebaa.chunk.css.map": "/static/css/main.31c3ebaa.chunk.css.map",
-    "static/media/index.css": "/static/media/Ozone.1abd8c1a.ttf"
+    "main.css": "/react-american-football-scoreboard/static/css/main.7d1921f0.chunk.css",
+    "main.js": "/react-american-football-scoreboard/static/js/main.3ef55549.chunk.js",
+    "main.js.map": "/react-american-football-scoreboard/static/js/main.3ef55549.chunk.js.map",
+    "runtime~main.js": "/react-american-football-scoreboard/static/js/runtime~main.a1cec7b3.js",
+    "runtime~main.js.map": "/react-american-football-scoreboard/static/js/runtime~main.a1cec7b3.js.map",
+    "static/js/2.d612f04f.chunk.js": "/react-american-football-scoreboard/static/js/2.d612f04f.chunk.js",
+    "static/js/2.d612f04f.chunk.js.map": "/react-american-football-scoreboard/static/js/2.d612f04f.chunk.js.map",
+    "index.html": "/react-american-football-scoreboard/index.html",
+    "precache-manifest.14a0f94194b246639070fc382e569153.js": "/react-american-football-scoreboard/precache-manifest.14a0f94194b246639070fc382e569153.js",
+    "service-worker.js": "/react-american-football-scoreboard/service-worker.js",
+    "static/css/main.7d1921f0.chunk.css.map": "/react-american-football-scoreboard/static/css/main.7d1921f0.chunk.css.map",
+    "static/media/index.css": "/react-american-football-scoreboard/static/media/Ozone.1abd8c1a.ttf"
   }
 }
